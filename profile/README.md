@@ -1,16 +1,11 @@
 ## Hi there 👋
 
-Here is the official GitHub repo of GVCLab @ Great Bay University
-
-<p>
-  <a href="https://github.com/GVCLab">
+Here is the GitHub repo of GVCLab @ Great Bay University. <a href="https://github.com/GVCLab">
     <img src="https://img.shields.io/github/followers/GVCLab?style=social" alt="Follow GVCLab" />
   </a>
   <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FGVCLab%2F.github%2Fmain%2Fdata%2Forg-stars.json&query=%24.stars&label=GVCLab%20total%20stars&style=social&logo=github" alt="GVCLab Total Stars" />
-</p>
 
-### Website
-- [gvclab.github.io](http://gvclab.github.io)
+More information can be found on our [homepage](http://gvclab.github.io).
 
 <!--
 
